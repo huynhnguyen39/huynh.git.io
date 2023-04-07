@@ -1,0 +1,19 @@
+Các bước làm phân tích :
+
+- Phân tích EDA
+
+· Transform dữ liệu từ string về categorical data
+
+· Preprocess data ( Standardize data , normalize data )
+
+· Feature Selection ( Chọn ra các biến dùng để train model )
+
+· Convert dataframe về vector ( array )
+
+· Build model
+
+· Evaluation ( Metrics )
+
+· Regression thì dùng R2 , MAE
+
+· Classification thì dùng confusion matrix
